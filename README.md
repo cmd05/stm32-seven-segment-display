@@ -4,6 +4,8 @@ A library to control a 7-segment display on STM32 boards.
 
 The library has been tested using a STM32F401RE board using a common-anode 7-segment display (Model: 5611-BSR).
 
+![image](https://github.com/user-attachments/assets/acd9ece6-7656-4f88-a07a-aaa45f1454e1)
+
 ## Basic Usage
 
 See `./Core/Src/main.c` for example code. 
